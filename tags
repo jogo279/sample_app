@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Application	C:\Sites\sample_app\config\application.rb	19;"	kind:class	line:19	language:Ruby	class:SampleApp
+ApplicationController	C:\Sites\sample_app\app\controllers\application_controller.rb	1;"	kind:class	line:1	language:Ruby
+ApplicationHelper	C:\Sites\sample_app\app\helpers\application_helper.rb	1;"	kind:module	line:1	language:Ruby
+SampleApp	C:\Sites\sample_app\config\application.rb	18;"	kind:module	line:18	language:Ruby
+StaticPagesController	C:\Sites\sample_app\app\controllers\static_pages_controller.rb	1;"	kind:class	line:1	language:Ruby
+StaticPagesHelper	C:\Sites\sample_app\app\helpers\static_pages_helper.rb	1;"	kind:module	line:1	language:Ruby
+about	C:\Sites\sample_app\app\controllers\static_pages_controller.rb	8;"	kind:method	line:8	language:Ruby	class:StaticPagesController
+full_title	C:\Sites\sample_app\app\helpers\application_helper.rb	4;"	kind:method	line:4	language:Ruby	class:ApplicationHelper
+help	C:\Sites\sample_app\app\controllers\static_pages_controller.rb	5;"	kind:method	line:5	language:Ruby	class:StaticPagesController
+home	C:\Sites\sample_app\app\controllers\static_pages_controller.rb	2;"	kind:method	line:2	language:Ruby	class:StaticPagesController
